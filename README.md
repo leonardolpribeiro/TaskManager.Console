@@ -1,0 +1,1 @@
+Estou usando uma IA (Pexplexity) para ser meu " tech leader sênior " que me mande projetos e  tarefas diárias em C# para que eu me aprimore na linguagem e ganhe conhecimento e organização de código, a ideia é que todos os dias tenham "commits" com comentários sinalizando em qual dia estamos e as alterações no projeto. 
